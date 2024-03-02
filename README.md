@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arpitadangi-coder
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Developer
 - have a great day!
 
 <!---
